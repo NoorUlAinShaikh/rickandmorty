@@ -1,0 +1,6 @@
+export const FETCH_ALLEPISODES = "FETCH_ALLEPISODES";
+export const FETCH_EPISODE = "FETCH_EPISODE";
+export const FETCH_SEASON = "FETCH_SEASON";
+export const ERRORS = "ERRORS";
+export const SEARCH_RESULTS = "SEARCH_RESULTS";
+export const SELECTED_SEASON = "SELECTED_SEASON";
